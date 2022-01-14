@@ -110,7 +110,6 @@ callbackSample(() => {
 }, true);
 
 // Cod apelat din HTML
-
 const handleClick = () => {
     // let inputElement = document.querySelector('input.input-box');
     let inputElement = document.getElementsByClassName('input-box')[0]; 
